@@ -1,0 +1,5 @@
+*.sh text eol=lf
+*.md text eol=lf
+SHA256SUMS text eol=lf
+*.tar.gz binary
+*.o binary
